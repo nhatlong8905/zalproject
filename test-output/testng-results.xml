@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62588" started-at="2019-11-07T03:40:22Z" finished-at="2019-11-07T03:41:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62588" started-at="2019-11-07T03:40:22Z" finished-at="2019-11-07T03:41:25Z">
+      <class name="zalora.ZaloraTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:zalora.ZaloraTest@724af044]" name="beforeMethod" is-config="true" duration-ms="4165" started-at="2019-11-07T10:40:22Z" finished-at="2019-11-07T10:40:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC01()[pri:0, instance:zalora.ZaloraTest@724af044]" name="TC01" duration-ms="57416" started-at="2019-11-07T10:40:27Z" finished-at="2019-11-07T10:41:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:zalora.ZaloraTest@724af044]" name="afterMethod" is-config="true" duration-ms="988" started-at="2019-11-07T10:41:24Z" finished-at="2019-11-07T10:41:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- zalora.ZaloraTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
