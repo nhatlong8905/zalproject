@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="zalora" > 
+  <test name="zalora test" preserve-order="true" >
+    <classes>
+      <class name="zalora.ZaloraTest" >
+        <methods>
+         	<include name="TC01" />
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

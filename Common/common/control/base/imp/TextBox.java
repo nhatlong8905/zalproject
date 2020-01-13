@@ -17,7 +17,6 @@ public class TextBox extends BaseControl implements IEditable {
 		super(byLocator);
 	}
 
-	@Override
 	public void enter(CharSequence... value) {
 		// TODO Auto-generated method stub
 		if(Utilities.haveElementDisplay(getElement()))

@@ -55,7 +55,6 @@ public class BaseControl implements IBaseControl {
 		}
 	}
 */
-	@Override
 	public void click() {
 		// TODO Auto-generated method stub
 		getElement().click();
